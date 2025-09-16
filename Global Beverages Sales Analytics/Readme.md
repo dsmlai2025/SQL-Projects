@@ -122,3 +122,9 @@
     4. Product by sales and cost per unit
 
 ### **Step 6: Insights**
+
+    1. With this analysis, we were able to observe the total sales of beverages and sales being constant over the years. We can assess the need for more strategic campaigns as sales have been stagnant in recent years.
+    
+    2. As most of the sales are coming only from India, the focus on the other countries with market potential should be prioritized.
+
+    3.  With some of our beverages performing poorly despite having low cost per unit is a big concern. The strategies should be made for those products as they are not contributing significantly to overall sales.
